@@ -5,7 +5,7 @@
 Add the following in your `.pre-commit-config.yaml`:
 
 ```yaml
-- repo: https://github.com/TinJieWang/flutter-pre-commit
+- repo: https://github.com/decoda-ai/flutter-pre-commit
   rev: v0.0.3
   hooks:
     - id: flutter-analyze
